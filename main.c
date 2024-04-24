@@ -17,5 +17,5 @@ int main()
   for(i=0;i<3;i++){
     printf("Details of employee: %s\n %d\n %f\n",s[i].name,s[i].id,s[i].salary);
   }
-  return 0; //return value
+  return 0; //return value you can use void main() to avoid it
 }
